@@ -7,7 +7,7 @@ Analyser les distributions des scores de performance et des heures travaillées 
 2. Comprendre les facteurs qui influencent la performance.
 3. Proposer des actions correctives ou des plans de formation adaptés.
 
-#### [Télécharger les données]
+#### [Télécharger les données](https://github.com/Hines98/Performance_employes_Python/tree/main)
 #### [Télécharger le notebook]
 
 ## Résultats
